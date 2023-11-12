@@ -7,6 +7,6 @@ five m qb core drift mode
   
 #qb-smallresources\config.lua
 
--**Config.AlternateDrift = false -- Set to true to use a different approach (no SHIFT)**
+``Config.AlternateDrift = false -- Set to true to use a different approach (no SHIFT)``
 
 #discord: https://discord.gg/b8gcTWNd
